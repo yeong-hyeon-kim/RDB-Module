@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDB-Module", "RDB-Module\RDB-Module.csproj", "{41EE081E-F770-4082-8148-1632E0D1BC14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testbed", "Testbed\Testbed.csproj", "{2C3A998E-30B5-4BC3-8075-05A5122476EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41EE081E-F770-4082-8148-1632E0D1BC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EE081E-F770-4082-8148-1632E0D1BC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EE081E-F770-4082-8148-1632E0D1BC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EE081E-F770-4082-8148-1632E0D1BC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3A998E-30B5-4BC3-8075-05A5122476EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3A998E-30B5-4BC3-8075-05A5122476EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3A998E-30B5-4BC3-8075-05A5122476EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3A998E-30B5-4BC3-8075-05A5122476EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F9E903-B8CB-4899-B4AC-718616A5C335}
+	EndGlobalSection
+EndGlobal
