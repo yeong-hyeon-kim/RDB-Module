@@ -32,9 +32,9 @@ namespace RDB_Module
     }
 
     [SupportedOSPlatform("windows")]
-    public class RAction
+    public class ActionModule
     {
-        public RAction(string connectionString)
+        public ActionModule(string connectionString)
         {
             new ConnectionState(connectionString);
         }
